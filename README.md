@@ -41,3 +41,14 @@ This project is licensed under the [MIT License](LICENSE) – see the LICENSE fi
 ## Credits
 Code for the "mol3d_styles.py" is obtained from the dash-bio repository.
 Link: https://github.com/plotly/dash-bio/tree/master
+
+
+## 📊 Dashboard Screenshots
+
+Here are some examples of the data dashboard:
+
+![Sample view 1](images/ss_1.png)
+
+![Sample view 2](images/ss_2.png)
+
+![Sample view 3](images/ss_3.png)
