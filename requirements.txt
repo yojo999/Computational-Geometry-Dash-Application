@@ -1,0 +1,10 @@
+dash>=2.0.0
+dash-bio
+dash-mantine-components
+dash-iconify
+pandas
+numpy
+scipy
+biopandas
+biopython
+plotly
