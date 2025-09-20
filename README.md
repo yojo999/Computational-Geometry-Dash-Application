@@ -1,7 +1,7 @@
 # Computational Geometry Dashboard for three dimensional protein structures
 
 ## Introduction
-This repository contains Python scripts and supporting data files for the **Computational Geometry Dashboard for three dimensional protein structures** using Dash.
+This repository contains Python scripts and supporting data files for the Computational Geometry Dashboard for three dimensional protein structures using Dash.
 This application aims to serve as a simple visual aid to interactively study the protein structure using the molecule3d viewer, a computational geometry chart (using Convex Hulls and Delaunay Tessellations), Ramachandran Chart, a Sequence Chart and the associated features resulting from the application of the two algorithms as a data table.
 
 
@@ -40,3 +40,5 @@ This project is licensed under the [MIT License](LICENSE) – see the LICENSE fi
 
 
 ## Credits
+Code for the "mol3d_styles.py" is obtained from the dash-bio repository.
+Link: https://github.com/plotly/dash-bio/tree/master
