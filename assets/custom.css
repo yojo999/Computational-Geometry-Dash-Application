@@ -1,0 +1,120 @@
+/* Override Mantine Select Dropdown */
+.mantine-Select-dropdown {
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+/* Dropdown items */
+.mantine-Select-item {
+  background-color: #2e2e2e !important;
+  color: white !important;
+  
+}
+
+/* Hover state */
+.mantine-Select-item:hover {
+  background-color: #2e2e2e !important;
+}
+
+.mantine-Select-label {
+  background-color: #2e2e2e !important;
+}
+
+.mantine-Select-options {
+  background-color: #2e2e2e !important;
+}
+
+.mantine-Select-option:hover {
+  background-color: #2e2e2e !important;
+  color: #1E90FF !important;
+}
+
+
+/* Selected item */
+.mantine-Select-item[data-selected] {
+  background-color: #2e2e2e !important;
+}
+
+/* Input text and border */
+.mantine-Select-input {
+  background-color: #2e2e2e !important;
+  color: white !important;
+  border-color: #2e2e2e !important;
+}
+
+/* Override Mantine Modal inner background */
+.custom-dark-modal .mantine-Modal-inner {
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+/* Optional: modal title color */
+.custom-dark-modal .mantine-Modal-title {
+  color: white !important;
+}
+
+.custom-dark-modal .mantine-Modal-body {
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+.mantine-Modal-root {
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+.mantine-Modal-content {
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+.mantine-Modal-header {
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+
+.mantine-Select-options {
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+
+.mantine-Drawer-root {
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+
+.mantine-Drawer-content{
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+.mantine-Drawer-header{
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+.mantine-Drawer-title{
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+.mantine-Drawer-body{
+  background-color: #2e2e2e !important;
+  color: white !important;
+}
+
+a {
+  color: dodgerblue !important;
+}
+
+
+
+
+
+
+
+
+

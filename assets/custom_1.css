@@ -1,0 +1,31 @@
+/* Dark mode dropdown menu for mantine Select */
+.mantine-Select-dropdown {
+    background-color: #1d1e30 !important;
+    color: white !important;
+}
+
+.mantine-Select-item {
+    color: white !important;
+}
+
+.mantine-Select-item[data-selected] {
+    background-color: #339af0 !important;
+    color: white !important;
+}
+
+
+/* assets/custom.css */
+
+.mantine-Select-dropdown {
+    background-color: #1d1e30 !important;
+    color: white !important;
+}
+
+.mantine-Select-item {
+    color: white !important;
+}
+
+.mantine-Select-item[data-selected] {
+    background-color: #339af0 !important;
+    color: white !important;
+}

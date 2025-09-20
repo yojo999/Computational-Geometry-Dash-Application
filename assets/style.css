@@ -1,0 +1,23 @@
+body {
+  background-color: #242424;  /* light gray background */
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: #242424;  /* light gray background */
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the filter input text and placeholder color */
+.dash-filter input {
+  color: #B8BBBE !important;
+  background-color: #242424 !important;
+  border: 1px solid #555 !important;
+}
+
+/* Optional: change placeholder text color */
+.dash-filter input::placeholder {
+  color: #B8BBBE;
+}
